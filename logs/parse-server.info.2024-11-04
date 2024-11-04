@@ -1,0 +1,2 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2024-11-04T06:33:24.224Z"}
+{"code":202,"level":"error","message":"Account already exists for this username.","stack":"Error: Account already exists for this username.\n    at D:\\demos\\nodejs\\parse-server-express\\node_modules\\parse-server\\lib\\RestWrite.js:591:13\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2024-11-04T06:53:08.320Z"}
